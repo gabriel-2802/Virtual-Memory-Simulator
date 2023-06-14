@@ -1,5 +1,7 @@
 ## VMS - Copyright Carauleanu Valentin Gabriel 311CA
 
+My first Data Structures homework.
+
 ## Introduction
 
 The programm has three static libraries:
